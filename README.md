@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilona ☀️</h1>
 <h3 align="center">On my way to become a Full-Stack developer</h3>
-<img align="right" alt="coding" width="400" src="[https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.pinimg.com/originals/6e/bd/0b/6ebd0b49e9f4de401c6b5eb45ae9d0c4.jpg)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/6e/bd/0b/6ebd0b49e9f4de401c6b5eb45ae9d0c4.jpg">
 
 - 🔭 I’m currently working on **my first React app**
 
