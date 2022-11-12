@@ -2,7 +2,7 @@
 <h3 align="center">On my way to become a Full-Stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/6e/bd/0b/6ebd0b49e9f4de401c6b5eb45ae9d0c4.jpg">
 
-- 🔭 I’m currently working on **my first React app**
+- 🔭 I’m currently working on **My first React app**
 
 - 🌱 I’m currently learning **React**
 
