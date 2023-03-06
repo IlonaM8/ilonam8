@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A React project**
 
-- 🌱 I’m currently learning **React and Node **
+- 🌱 I’m currently learning **React & Node**
 
 - 📫 How to reach me **ilonalearnstocode@gmail.com**
 
